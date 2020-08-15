@@ -1,4 +1,4 @@
-Project Link: https://tinder-clone-2ecc4.web.app
+Project Link: https://instagram-clone-ef527.web.app/
 
 To run this project, you need to add you firebase config in 'src/firebase.js'.
 
